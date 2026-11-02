@@ -1,0 +1,15 @@
+.claude/plugins/
+.claude/skills/
+.claude/cortex-config.json
+.claude/cortex-state.json
+.claude/cortex-memory-buffer.jsonl
+.cortex/
+# Cortex
+.claude/plugins/
+.claude/skills/
+.claude/cortex-config.json
+.claude/cortex-state.json
+.claude/cortex-memory-buffer.jsonl
+.claude/settings.local.json
+.mcp.json
+.cortex/
